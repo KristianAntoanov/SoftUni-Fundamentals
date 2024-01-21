@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4599B240-912D-4827-98FB-DB3CFFD70E27}|Default">
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P11/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="22" Column="14" />
+      <File FileName="P02/Program.cs" Line="29" Column="67" />
+      <File FileName="P03/Program.cs" Line="80" Column="2" />
+      <File FileName="P04/Program.cs" Line="17" Column="14" />
+      <File FileName="P05/Program.cs" Line="17" Column="45" />
+      <File FileName="P06/Program.cs" Line="26" Column="14" />
+      <File FileName="P07/Program.cs" Line="77" Column="18" />
+      <File FileName="P08/Program.cs" Line="1" Column="1" />
+      <File FileName="P09/Program.cs" Line="17" Column="26" />
+      <File FileName="P10/Program.cs" Line="30" Column="6" />
+      <File FileName="P11/Program.cs" Line="26" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Basic Syntax-Ex" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Basic Syntax-Ex/P07/Program.cs" relfile="P07/Program.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P09 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
