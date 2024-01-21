@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{63465E3B-58B2-4268-AA0C-731EA2078E5E}|Default">
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P09/Program.cs">
+    <Files>
+      <File FileName="P09/Program.cs" Line="13" Column="1" />
+      <File FileName="P08/Program.cs" Line="1" Column="1" />
+      <File FileName="P07/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays - Exercise" expanded="True">
+            <Node name="P07" expanded="True" />
+            <Node name="P08" expanded="True" />
+            <Node name="P09 - Best" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P09_220-_220Best PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Arrays - Lab/P08/Program.cs" line="19" column="16" endLine="19" endColumn="25" offsetX="-1" offsetY="-1" expression="condensed" liveUpdate="False" />
+    <Watch file="../../../../Arrays - Lab/P08/Program.cs" line="21" column="16" endLine="21" endColumn="25" offsetX="-1" offsetY="-1" expression="condensed" liveUpdate="False" />
+    <Watch file="../../../P02/Program.cs" line="19" column="39" endLine="19" endColumn="48" offsetX="-1" offsetY="-1" expression="secondArr" liveUpdate="False" />
+    <Watch file="../../../P02/Program.cs" line="19" column="24" endLine="19" endColumn="32" offsetX="-1" offsetY="-1" expression="firstArr" liveUpdate="False" />
+    <Watch file="../../../P02/Program.cs" line="19" column="24" endLine="19" endColumn="52" offsetX="-1" offsetY="-1" expression="firstArr[i] == secondArr[i2]" liveUpdate="False" />
+    <Watch file="../../../P02/Program.cs" line="21" column="24" endLine="21" endColumn="32" offsetX="-1" offsetY="-1" expression="compares" liveUpdate="False" />
+    <Watch file="../../../P08/Program.cs" line="22" column="38" endLine="22" endColumn="45" offsetX="-1" offsetY="-1" expression="numbers" liveUpdate="False" />
+    <Watch file="../../../P07/Program.cs" line="8" column="18" endLine="11" endColumn="26" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Arrays - Exercise/P08/Program.cs" relfile="P08/Program.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

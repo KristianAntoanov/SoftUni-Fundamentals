@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/bin/Debug/net6.0/P09-Resolved
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/bin/Debug/net6.0/P09-Resolved.deps.json
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/bin/Debug/net6.0/P09-Resolved.runtimeconfig.json
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/bin/Debug/net6.0/P09-Resolved.dll
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/bin/Debug/net6.0/P09-Resolved.pdb
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.dll
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/refint/P09-Resolved.dll
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.pdb
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/P09-Resolved.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Arrays - Exercise/P09-Resolved/obj/Debug/net6.0/ref/P09-Resolved.dll
