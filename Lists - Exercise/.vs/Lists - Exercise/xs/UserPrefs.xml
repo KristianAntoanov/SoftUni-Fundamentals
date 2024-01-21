@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{3A788F7C-4091-4656-B8EB-9A7B648AC70E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Methods - Exercise/P09/Program.cs" line="15" column="16" endLine="15" endColumn="41" offsetX="-1" offsetY="-1" expression="reversedArr == readyArray" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Lists - Exercise/P05/Program.cs" relfile="P05/Program.cs" line="21" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Lists - Exercise/P06/Program.cs" relfile="P06/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Lists - Exercise/P08/Program.cs" relfile="P08/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P08/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" />
+      <File FileName="P02/Program.cs" />
+      <File FileName="P03/Program.cs" />
+      <File FileName="P04/Program.cs" />
+      <File FileName="P05/Program.cs" />
+      <File FileName="P06/Program.cs" Line="53" Column="10" />
+      <File FileName="P07/Program.cs" Line="21" Column="14" />
+      <File FileName="P08/Program.cs" Line="40" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lists - Exercise" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
