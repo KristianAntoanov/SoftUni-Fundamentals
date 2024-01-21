@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{3EC38417-0E5A-4C3F-A6CF-881C54A1477D}|Default">
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Methods - Exercise/P09/Program.cs" line="15" column="16" endLine="15" endColumn="41" offsetX="-1" offsetY="-1" expression="reversedArr == readyArray" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Text Processing - Exercise/P07/Program.cs" relfile="P07/Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Text Processing - Exercise/P08/Program.cs" relfile="P08/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="P03/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="1" Column="1" />
+      <File FileName="P02/Program.cs" Line="19" Column="25" />
+      <File FileName="P03/Program.cs" Line="19" Column="29" />
+      <File FileName="P04/Program.cs" Line="1" Column="1" />
+      <File FileName="P05/Program.cs" Line="26" Column="38" />
+      <File FileName="P06/Program.cs" Line="1" Column="1" />
+      <File FileName="P07/Program.cs" Line="17" Column="28" />
+      <File FileName="P08/Program.cs" Line="35" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Text Processing - Exercise" expanded="True">
+            <Node name="P02" expanded="True" />
+            <Node name="P03">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="P04" expanded="True" />
+            <Node name="P05" expanded="True" />
+            <Node name="P06" expanded="True" />
+            <Node name="P07" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
