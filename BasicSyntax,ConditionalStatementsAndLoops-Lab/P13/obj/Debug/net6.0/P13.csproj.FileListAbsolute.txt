@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/bin/Debug/net6.0/P13
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/bin/Debug/net6.0/P13.deps.json
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/bin/Debug/net6.0/P13.runtimeconfig.json
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/bin/Debug/net6.0/P13.dll
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/bin/Debug/net6.0/P13.pdb
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.AssemblyInfo.cs
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.dll
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/refint/P13.dll
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.pdb
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/P13.genruntimeconfig.cache
+/Users/kristianivanov/Projects/BasicSyntax,ConditionalStatementsAndLoops-Lab/P13/obj/Debug/net6.0/ref/P13.dll
