@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{D5952CEB-028C-40F7-B9E3-27B9CEF5A9A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Data Types and Variables - Lab/P05/Program.cs" relfile="P05/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P12/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="16" Column="2" />
+      <File FileName="P02/Program.cs" Line="16" Column="2" />
+      <File FileName="P03/Program.cs" Line="12" Column="1" />
+      <File FileName="P04/Program.cs" Line="22" Column="2" />
+      <File FileName="P05/Program.cs" Line="16" Column="39" />
+      <File FileName="P06/Program.cs" Line="13" Column="43" />
+      <File FileName="P07/Program.cs" Line="16" Column="2" />
+      <File FileName="P08/Program.cs" Line="16" Column="2" />
+      <File FileName="P09/Program.cs" Line="16" Column="2" />
+      <File FileName="P10/Program.cs" Line="6" Column="27" />
+      <File FileName="P11/Program.cs" Line="14" Column="38" />
+      <File FileName="P12/Program.cs" Line="24" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Data Types and Variables - Lab" expanded="True">
+            <Node name="P06" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

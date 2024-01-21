@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/bin/Debug/net6.0/P12
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/bin/Debug/net6.0/P12.deps.json
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/bin/Debug/net6.0/P12.runtimeconfig.json
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/bin/Debug/net6.0/P12.dll
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/bin/Debug/net6.0/P12.pdb
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.dll
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/refint/P12.dll
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.pdb
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/P12.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Data Types and Variables - Lab/P12/obj/Debug/net6.0/ref/P12.dll
