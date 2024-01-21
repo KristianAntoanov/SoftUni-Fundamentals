@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/bin/Debug/net6.0/P02and03
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/bin/Debug/net6.0/P02and03.deps.json
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/bin/Debug/net6.0/P02and03.runtimeconfig.json
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/bin/Debug/net6.0/P02and03.dll
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/bin/Debug/net6.0/P02and03.pdb
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.dll
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/refint/P02and03.dll
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.pdb
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/P02and03.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Objects and Classes - Exercise/P02/obj/Debug/net6.0/ref/P02and03.dll
