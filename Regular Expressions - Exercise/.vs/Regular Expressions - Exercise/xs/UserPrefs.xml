@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{91793356-AC48-4DDA-B383-6ABD9DE8288B}|Default">
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="P05/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="20" Column="35" />
+      <File FileName="P02/Program.cs" Line="40" Column="25" />
+      <File FileName="P03/Program.cs" Line="12" Column="46" />
+      <File FileName="P04/Program.cs" Line="70" Column="14" />
+      <File FileName="P06/Program.cs" Line="20" Column="14" />
+      <File FileName="P05/Program.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Regular Expressions - Exercise" expanded="True">
+            <Node name="P05" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="P06" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
