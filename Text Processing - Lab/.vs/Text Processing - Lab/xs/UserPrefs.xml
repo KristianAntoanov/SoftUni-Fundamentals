@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{5427D517-8476-4144-94B3-BB8D9892103C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Methods - Exercise/P09/Program.cs" line="15" column="16" endLine="15" endColumn="41" offsetX="-1" offsetY="-1" expression="reversedArr == readyArray" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Text Processing - Lab/P03/Program.cs" relfile="P03/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P05/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="17" Column="10" />
+      <File FileName="P02/Program.cs" Line="12" Column="14" />
+      <File FileName="P03/Program.cs" Line="16" Column="68" />
+      <File FileName="P04/Program.cs" Line="16" Column="12" />
+      <File FileName="P05/Program.cs" Line="32" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Text Processing - Lab" expanded="True">
+            <Node name="P01" expanded="True" />
+            <Node name="P02" expanded="True" />
+            <Node name="P03" expanded="True" />
+            <Node name="P04" expanded="True" />
+            <Node name="P05" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
