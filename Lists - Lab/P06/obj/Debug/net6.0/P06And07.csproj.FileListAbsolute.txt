@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Lists - Lab/P06/bin/Debug/net6.0/P06And07
+/Users/kristianivanov/Projects/Lists - Lab/P06/bin/Debug/net6.0/P06And07.deps.json
+/Users/kristianivanov/Projects/Lists - Lab/P06/bin/Debug/net6.0/P06And07.runtimeconfig.json
+/Users/kristianivanov/Projects/Lists - Lab/P06/bin/Debug/net6.0/P06And07.dll
+/Users/kristianivanov/Projects/Lists - Lab/P06/bin/Debug/net6.0/P06And07.pdb
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.dll
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/refint/P06And07.dll
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.pdb
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/P06And07.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Lists - Lab/P06/obj/Debug/net6.0/ref/P06And07.dll
