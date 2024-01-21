@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/bin/Debug/net6.0/P06EmojiDetector
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/bin/Debug/net6.0/P06EmojiDetector.deps.json
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/bin/Debug/net6.0/P06EmojiDetector.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/bin/Debug/net6.0/P06EmojiDetector.dll
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/bin/Debug/net6.0/P06EmojiDetector.pdb
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.dll
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/refint/P06EmojiDetector.dll
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.pdb
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/P06EmojiDetector.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/P06EmojiDetector/obj/Debug/net6.0/ref/P06EmojiDetector.dll

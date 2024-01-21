@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/bin/Debug/net6.0/P05ActivationKeys
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/bin/Debug/net6.0/P05ActivationKeys.deps.json
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/bin/Debug/net6.0/P05ActivationKeys.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/bin/Debug/net6.0/P05ActivationKeys.dll
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/bin/Debug/net6.0/P05ActivationKeys.pdb
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.dll
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/refint/P05ActivationKeys.dll
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.pdb
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/P05ActivationKeys.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/P01ActivationKeys/obj/Debug/net6.0/ref/P05ActivationKeys.dll
